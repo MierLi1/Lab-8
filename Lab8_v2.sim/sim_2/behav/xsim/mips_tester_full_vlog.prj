@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/ALU.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/adder.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/addsub.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/comparator.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/controller.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/new/datapath.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/fulladder.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/logical.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/mips.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/ram.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/register_file.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/rom.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/shifter.sv" \
+"../../../../Lab8_v2.srcs/sources_1/imports/starter/top.sv" \
+"../../../../Lab8_v2.srcs/sim_2/imports/starter/full_tester.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

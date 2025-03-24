@@ -1,0 +1,20 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/mierli/Lab8_v2/Lab8_v2.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sim_1/imports/starter/controller_test.sv,1742842585,systemVerilog,,,,controller_test;selfcheck,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/new/datapath.sv,1742842842,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/fulladder.sv,,datapath,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/ALU.sv,1742842937,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/adder.sv,,ALU,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/adder.sv,1742842971,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/addsub.sv,,adder,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/addsub.sv,1742842984,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/comparator.sv,,addsub,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/comparator.sv,1742842994,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/controller.sv,,comparator,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/controller.sv,1742843236,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sim_1/imports/starter/controller_test.sv,,controller,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/fulladder.sv,1742843061,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/logical.sv,,fulladder,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/logical.sv,1742843033,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/mips.sv,,logical,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/mips.sv,1742842660,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/ram.sv,,mips,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/ram.sv,1742842656,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/register_file.sv,,ram_module,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/register_file.sv,1742843344,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/rom.sv,,register_file,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/rom.sv,1742842698,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/shifter.sv,,rom_module,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/shifter.sv,1742843041,systemVerilog,,/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/top.sv,,shifter,,uvm,,,,,,
+/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/top.sv,1742842752,systemVerilog,,,,top,,uvm,,,,,,

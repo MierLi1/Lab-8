@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sim_1/imports/starter/controller_test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller_test
+INFO: [VRFC 10-311] analyzing module selfcheck

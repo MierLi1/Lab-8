@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Mar 24 15:27:40 2025
+# Process ID: 3669393
+# Current directory: /home/mierli/Lab8_v2/Lab8_v2.sim/sim_2/behav/xsim
+# Command line: wbtcv -mode batch -source /home/mierli/Lab8_v2/Lab8_v2.sim/sim_2/behav/xsim/xsim.dir/mips_tester_full_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/mierli/Lab8_v2/Lab8_v2.sim/sim_2/behav/xsim/webtalk.log
+# Journal file: /home/mierli/Lab8_v2/Lab8_v2.sim/sim_2/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/mierli/Lab8_v2/Lab8_v2.sim/sim_2/behav/xsim/xsim.dir/mips_tester_full_behav/webtalk/xsim_webtalk.tcl -notrace

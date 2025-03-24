@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/ALU.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/adder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/addsub.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addsub
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/comparator.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/controller.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/new/datapath.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+WARNING: [VRFC 10-8426] non-net output port 'pc' cannot be initialized at declaration in SystemVerilog mode [/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/new/datapath.sv:31]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/fulladder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/logical.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module logical
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/mips.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/ram.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ram_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/register_file.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/rom.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rom_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/shifter.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shifter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sources_1/imports/starter/top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mierli/Lab8_v2/Lab8_v2.srcs/sim_2/imports/starter/full_tester.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips_tester_full
+INFO: [VRFC 10-311] analyzing module selfcheck
